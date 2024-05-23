@@ -1,4 +1,4 @@
-```markdown
+
 # Code Social: The Aid you Need in your learning Journey
 
 ## 1. Introduction & Mission
@@ -86,4 +86,4 @@ Have questions? Reach out to us via email: codesocialcommunity@gmail.com
 ## 8. Call to Action
 
 Join Code Social and embark on your tech adventure! We look forward to having you on board.
-```
+
