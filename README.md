@@ -48,10 +48,13 @@ We have some awesome projects you can contribute to. Check them out on [this pag
 
 We're most active on Discord, but we keep you informed and entertained across platforms:
 
-- *Discord* : [Click here to join](https://discord.gg/MSTNyRSPYW)
-- *LinkedIn* : [Click here to join](https://www.linkedin.com/company/code-social/)
-- *Instagram* : [Click here to join](https://www.instagram.com/codesocial.tech/)
-- *X* : [Click here to join](https://twitter.com/codesocial_tech)
+[![Join us on Discord](https://img.shields.io/badge/Join%20Us-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/MSTNyRSPYW)
+
+[![Follow on LinkedIn](https://img.shields.io/badge/Follow-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/code-social/)
+
+[![Follow on Instagram](https://img.shields.io/badge/Follow-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codesocial.tech/)
+
+[![Follow on X (Twitter)](https://img.shields.io/badge/Follow-X-000000?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/codesocial_tech)
 
 ## 5. Learning Resources
 
